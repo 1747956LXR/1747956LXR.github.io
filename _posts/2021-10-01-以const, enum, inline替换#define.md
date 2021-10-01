@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:   Effective C++(1) 以const, enum, inline替换#define
 subtitle:   Effective C++(1) 以const, enum, inline替换#define
