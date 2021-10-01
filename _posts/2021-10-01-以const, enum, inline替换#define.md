@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:   Effective C++(1) 以const, enum, inline替换#define
-subtitle:   Effective C++(1) 以const, enum, inline替换#define
+title:   Effective C++(2) 以const, enum, inline替换#define
+subtitle:   Effective C++(2) 以const, enum, inline替换#define
 date:       2021-10-01
 author:     LXR
 header-img: img/post-bg-re-vs-ng2.jpg
