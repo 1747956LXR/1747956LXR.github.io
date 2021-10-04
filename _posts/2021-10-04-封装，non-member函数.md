@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:   Effective C++(22-24) 封装，non-member函数
 subtitle:   Effective C++(22-24) 封装，non-member函数
