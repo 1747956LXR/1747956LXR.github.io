@@ -8,7 +8,6 @@ header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
     - Effective C++
-    - 封装，non-member函数
 ---
 
 # 参考文章
