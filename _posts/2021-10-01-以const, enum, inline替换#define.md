@@ -8,7 +8,6 @@ header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
     - Effective C++
-    - 以const, enum, inline替换#define
 ---
 
 # 参考文章
