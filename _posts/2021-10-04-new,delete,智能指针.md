@@ -8,7 +8,6 @@ header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
     - Effective C++
-    - new,delete,智能指针
 ---
 
 # 参考文章
