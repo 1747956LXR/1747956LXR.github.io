@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:   Effective C++(32) public继承的is-a关系
 subtitle:   Effective C++(32) public继承的is-a关系
